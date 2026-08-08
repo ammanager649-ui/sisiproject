@@ -1,6 +1,6 @@
 {
   "latestVersion": "1.0.0",
-  "minimumVersion": "1.0.5",
+  "minimumVersion": "1.0.0",
   "forceUpdate": false,
   "updateUrl": "https://example.com/app.apk",
   "message": "Fanya update ya faili"
